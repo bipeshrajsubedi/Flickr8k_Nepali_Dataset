@@ -19,4 +19,4 @@ Citation:
     pages = "86--91",
 }
 
-APA: Bipesh Subedi and Bal Krishna Bal. 2022. CNN-Transformer based Encoder-Decoder Model for Nepali Image Captioning. In Proceedings of the 19th International Conference on Natural Language Processing (ICON), pages 86–91, New Delhi, India. Association for Computational Linguistics.
+ACL: Bipesh Subedi and Bal Krishna Bal. 2022. CNN-Transformer based Encoder-Decoder Model for Nepali Image Captioning. In Proceedings of the 19th International Conference on Natural Language Processing (ICON), pages 86–91, New Delhi, India. Association for Computational Linguistics.
