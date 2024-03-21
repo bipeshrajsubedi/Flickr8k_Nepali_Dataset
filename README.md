@@ -5,6 +5,8 @@ or request to this link for english version: https://forms.illinois.edu/sec/1713
 Primary use: Image Captioning
 Please cite if you find it useful.
 
+To access the project: https://github.com/bipeshrajsubedi/CNN-Transformer-based-Encoder-Decoder-Model-for-Nepali-Image-Captioning
+
 Citation:
 @inproceedings{subedi-krishna-bal-2022-cnn,
     title = "{CNN}-Transformer based Encoder-Decoder Model for {N}epali Image Captioning",
